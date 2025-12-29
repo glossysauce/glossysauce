@@ -1,4 +1,3 @@
-**Sophie Yang** — EE @ UMich  
 Embedded Systems • DSP • Computer Architecture
 
 Working on: **[Study Pet](https://github.com/glossysauce/study-pet)**  
